@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ESP Controller</string>
+    <string name="rooms">Rooms</string>
+    <string name="add_room">Add room</string>
+    <string name="back_button">Back button</string>
+    <string name="invalid_ip_address">Invalid or not private IP address</string>
+    <string name="input_field_is_empty">Input field is empty</string>
+    <string name="enter_ip_address">Enter your ESP IP private address</string>
+    <string name="connect">Connect</string>
+    <string name="ip_address_is_offline">IP address is offline</string>
+    <string name="delete">Delete</string>
+    <string name="save_room">Save room</string>
+    <string name="enter_name_of_new_room">Enter name of new room</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_device">Add device</string>
+    <string name="enter_name_of_new_device">Enter name of new device</string>
+    <string name="save_device">Save device</string>
+    <string name="set_time">Set time</string>
+    <string name="save_time">Save time</string>
+    <string name="device">DEVICE:</string>
+    <string name="sign">SIGN:</string>
+    <string name="one_input_field_is_empty">At least one of the input fields is empty!</string>
+    <string name="power_img">Power image</string>
+    <string name="arrow">Arrow</string>
+    <string name="control">%1$s\' control</string>
+    <string name="s_control">%1$s\'s control</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="type_pin">Type: %1$s Pin: %2$s</string>
+    <string name="swipebackgrounddev">SwipeBackgroundDev</string>
+    <string name="devices">devices</string>
+    <string name="s_devices">\'s devices</string>
+    <string name="swipebackgroundroom">SwipeBackgroundRoom</string>
+    <string name="counted_device">%1$s Device</string>
+    <string name="counted_devices">%1$s Devices</string>
+</resources>
