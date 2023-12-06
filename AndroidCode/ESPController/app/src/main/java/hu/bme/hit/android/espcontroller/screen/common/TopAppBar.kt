@@ -47,7 +47,7 @@ fun TopAppBar(
             }
         }
     }, actions = {
-        if (currentRoute != stringResource(R.string.app_name)) { //TODO on controller screen, delete as well
+        if (currentRoute != stringResource(R.string.app_name)) {
             if (!alreadyLogged) {
                 alreadyLogged = true
             }
